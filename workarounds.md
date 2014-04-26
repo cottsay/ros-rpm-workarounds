@@ -4,7 +4,9 @@
 - diagnostics
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/ee8299b823f60fd149f2e86ea5dd198cfae04512
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/061e86f7d43968bd39daa98ea9b55a4016c86605
-- split_sequence:
-  - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
 - razer_hydra:
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
+- split_sequence:
+  - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
+- vision_opencv:
+  - https://github.com/smd-ros-rpm-release/vision_opencv-release/commit/81fc1c253651938124a6ea0452db5d169bc0744e
