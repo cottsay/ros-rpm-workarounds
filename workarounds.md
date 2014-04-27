@@ -10,6 +10,8 @@
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
 - robot_mode:
   - https://github.com/smd-ros-rpm-release/robot_model-release/commit/b1cdb820e306d49d46745efa588a2a7a6e3b1bb0
+- rosauth:
+  - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
 - vision_opencv:
