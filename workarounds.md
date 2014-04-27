@@ -4,6 +4,8 @@
 - diagnostics
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/ee8299b823f60fd149f2e86ea5dd198cfae04512
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/061e86f7d43968bd39daa98ea9b55a4016c86605
+- jsk_roseus:
+  - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/b5bbc51a2bd4420fde059c574ef8d23f7048e8f6
 - razer_hydra:
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
 - split_sequence:
