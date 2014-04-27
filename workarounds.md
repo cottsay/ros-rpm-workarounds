@@ -8,6 +8,8 @@
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
 - razer_hydra:
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
+- robot_mode:
+  - https://github.com/smd-ros-rpm-release/robot_model-release/commit/b1cdb820e306d49d46745efa588a2a7a6e3b1bb0
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
 - vision_opencv:
