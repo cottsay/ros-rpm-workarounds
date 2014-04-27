@@ -16,5 +16,3 @@
   - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
-- vision_opencv:
-  - https://github.com/smd-ros-rpm-release/vision_opencv-release/commit/81fc1c253651938124a6ea0452db5d169bc0744e
