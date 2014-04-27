@@ -4,6 +4,8 @@
 - bwi_common:
   - https://github.com/smd-ros-rpm-release/bwi_common-release/commit/86f6b86f29312b8f29a5daf3512ca61df1624b72
   - https://github.com/smd-ros-rpm-release/bwi_common-release/commit/e4700291699fdf13b4d643e5acb48b5f9a046367
+- bwi_planning:
+  - https://github.com/smd-ros-rpm-release/bwi_planning-release/commit/4c85c95038d170c183dfe27d5c58607bae5e5f11
 - catkin:
   - https://github.com/smd-ros-rpm-release/catkin-release/commit/46a319fa6a2ade4e8f97613aa414aa5ab08b8a5b
 - diagnostics
