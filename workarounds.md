@@ -1,4 +1,6 @@
 ### Workarounds:
+- ardrone_autonomy:
+  - https://github.com/smd-ros-rpm-release/ardrone_autonomy-release/commit/ebbfa88d5e567fd394bdac52fadbb5bb773f5da5
 - catkin:
   - https://github.com/smd-ros-rpm-release/catkin-release/commit/46a319fa6a2ade4e8f97613aa414aa5ab08b8a5b
 - diagnostics
