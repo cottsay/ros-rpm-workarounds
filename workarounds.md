@@ -63,6 +63,7 @@
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
 - usb_cam:
   - https://github.com/smd-ros-rpm-release/usb_cam-release/commit/caa0afcc395830a2a95b2484f1e963251460c016
+  - https://github.com/smd-ros-rpm-release/usb_cam-release/commit/ec45198a42d2a20b7669fba923eb2bf76ee0bd09
 - typelib:
   - https://github.com/smd-ros-rpm-release/typelib-release/commit/9da7bcbc9bf62c6d83ed9f7b00aaa6cf2a928c57
 - utilrb:
