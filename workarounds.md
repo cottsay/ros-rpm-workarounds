@@ -54,6 +54,8 @@
   - https://github.com/smd-ros-rpm-release/robot_model-release/commit/b1cdb820e306d49d46745efa588a2a7a6e3b1bb0
 - rosauth:
   - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
+- rtt:
+  - https://github.com/smd-ros-rpm-release/rtt-release/commit/d95a8f1ad641a540d8e986cbf81efc62e30507a1
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
 - shadow_robot:
