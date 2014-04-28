@@ -12,6 +12,8 @@
   - https://github.com/smd-ros-rpm-release/catkin-release/commit/46a319fa6a2ade4e8f97613aa414aa5ab08b8a5b
 - cob_driver:
   - https://github.com/smd-ros-rpm-release/cob_driver-release/commit/5ac824d8585115ed2718ba63eec8d2981ae848af
+- cob_manipulation:
+  - https://github.com/smd-ros-rpm-release/cob_manipulation-release/commit/04dd6503897ec27d015390509c869e36a138c567
 - diagnostics
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/ee8299b823f60fd149f2e86ea5dd198cfae04512
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/061e86f7d43968bd39daa98ea9b55a4016c86605
