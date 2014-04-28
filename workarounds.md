@@ -44,6 +44,8 @@
   - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/3e2de1ca92ac976dc4c8762015585abfdbdeb98d
 - openni_tracker:
   - https://github.com/smd-ros-rpm-release/openni_tracker-release/commit/dfb2de593969a66bba2fb63e4e3b1faa7884d967
+- pointgrey_camera_driver:
+  - https://github.com/smd-ros-rpm-release/pointgrey_camera_driver-release/commit/5e721fcdfcb1f449339249544e52f14d11ce5646
 - pcl_conversions:
   - https://github.com/smd-ros-rpm-release/pcl_conversions-release/commit/e312f52f8338a4c7450420a0e0e241cf340201db
 - razer_hydra:
