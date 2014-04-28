@@ -35,6 +35,7 @@
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/5348980fb311b3adec3412f93397e5b6559848c6
 - jsk_roseus:
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
+  - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/d9520a0dae2dfbc1b366befaf2572a560ae7b552
 - map_store:
   - https://github.com/smd-ros-rpm-release/map_store-release/commit/5e8aaeda753e02b436f086d157777ed1228e06fd
 - moveit_setup_assistant:
