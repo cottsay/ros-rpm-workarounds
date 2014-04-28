@@ -61,6 +61,8 @@
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/c941663446696e2f6a3c7d44e9282d84c0998e93
 - swiftnav:
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
+- velodyne:
+  - https://github.com/smd-ros-rpm-release/velodyne-release/commit/a4311f5df18bb93fbc63fe14bf7a6822fc41bd15
 - warehouse_ros:
   - https://github.com/smd-ros-rpm-release/warehouse_ros-release/commit/f98c85c9214ce2dac0401d359d833f992f30f222
 - xacro:
