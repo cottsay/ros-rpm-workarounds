@@ -17,6 +17,8 @@
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/5348980fb311b3adec3412f93397e5b6559848c6
 - jsk_roseus:
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
+- map_store:
+  - https://github.com/smd-ros-rpm-release/map_store-release/commit/5e8aaeda753e02b436f086d157777ed1228e06fd
 - razer_hydra:
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
 - robot_mode:
