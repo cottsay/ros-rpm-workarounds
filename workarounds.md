@@ -59,6 +59,8 @@
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/8df8313208d08098bca4f62f9108be15a926f53f
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/512d56e1515d5f1069c642b514832802dd144e1a
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/c941663446696e2f6a3c7d44e9282d84c0998e93
+- stdr_simulator:
+  - https://github.com/smd-ros-rpm-release/stdr_simulator-release/commit/ce9ae0f976d9a078588d21258b13304f552bbe4b
 - swiftnav:
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
 - usb_cam:
