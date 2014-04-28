@@ -37,6 +37,10 @@
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
 - map_store:
   - https://github.com/smd-ros-rpm-release/map_store-release/commit/5e8aaeda753e02b436f086d157777ed1228e06fd
+- moveit_setup_assistant:
+  - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/1c17d7063ca6be62ca75d36f8420d83f3c8eb9f0
+  - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/7d2b49942e1ecf0d8c6eeb93032b08a97d874655
+  - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/3e2de1ca92ac976dc4c8762015585abfdbdeb98d
 - openni_tracker:
   - https://github.com/smd-ros-rpm-release/openni_tracker-release/commit/dfb2de593969a66bba2fb63e4e3b1faa7884d967
 - pcl_conversions:
