@@ -19,6 +19,11 @@
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/061e86f7d43968bd39daa98ea9b55a4016c86605
 - flir_ptu:
   - https://github.com/smd-ros-rpm-release/flir_ptu-release/commit/3f5b7a4a0d7c22d2b94e945d48a53eabb5130b25
+- hrpsys:
+  - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/201157166c266cc202983ef308fc5fd2f3521b62
+  - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/cae38ff82952f7c78a1c2f6ee0dbe046f3c1f10f
+  - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/ac4271cabd447d06187fb1a9c2790f4d6ede97b1
+  - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/91a74c2d90c9dc57c43d3ce88b4730e1e5a3ff50
 - image_pipeline:
   - https://github.com/smd-ros-rpm-release/image_pipeline-release/commit/83aef4d001b29ceacca95cda1309266d52737c64
 - joystick_drivers:
