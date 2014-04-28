@@ -1,4 +1,6 @@
 ### Workarounds:
+- ar_track_alvar:
+  - https://github.com/smd-ros-rpm-release/ar_track_alvar-release/commit/1a50bd2f25cb279dfe3b090b41cbd3c1329d3d05
 - ardrone_autonomy:
   - https://github.com/smd-ros-rpm-release/ardrone_autonomy-release/commit/ebbfa88d5e567fd394bdac52fadbb5bb773f5da5
 - bwi_common:
