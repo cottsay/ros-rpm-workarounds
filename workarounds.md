@@ -25,3 +25,5 @@
   - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
+- warehouse_ros:
+  - https://github.com/smd-ros-rpm-release/warehouse_ros-release/commit/f98c85c9214ce2dac0401d359d833f992f30f222
