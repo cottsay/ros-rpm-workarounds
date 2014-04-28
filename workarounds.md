@@ -18,7 +18,7 @@
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/ee8299b823f60fd149f2e86ea5dd198cfae04512
   - https://github.com/smd-ros-rpm-release/diagnostics-release/commit/061e86f7d43968bd39daa98ea9b55a4016c86605
 - flir_ptu:
-  - https://github.com/smd-ros-rpm-release/flir_ptu-release/commit/3f5b7a4a0d7c22d2b94e945d48a53eabb5130b25
+  - https://github.com/smd-ros-rpm-release/flir_ptu-release/commit/24a3c2418ec9f39576df575227ec4755cc892c26
 - hrpsys:
   - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/201157166c266cc202983ef308fc5fd2f3521b62
   - https://github.com/smd-ros-rpm-release/hrpsys-release/commit/cae38ff82952f7c78a1c2f6ee0dbe046f3c1f10f
