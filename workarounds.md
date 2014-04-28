@@ -39,3 +39,5 @@
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
 - warehouse_ros:
   - https://github.com/smd-ros-rpm-release/warehouse_ros-release/commit/f98c85c9214ce2dac0401d359d833f992f30f222
+- xacro:
+  - https://github.com/smd-ros-rpm-release/xacro-release/commit/716cdb03527139e3ee4f26f1d82e39550f226b24
