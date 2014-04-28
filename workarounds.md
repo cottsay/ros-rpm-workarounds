@@ -43,7 +43,7 @@
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/68b02e371b2296a6573ccded5401e7e830a5b2c0
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/8df8313208d08098bca4f62f9108be15a926f53f
   - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/512d56e1515d5f1069c642b514832802dd144e1a
-  - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/321d64617f0cbd4c7a7f07448c5fdd80ba2b0d30
+  - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/c941663446696e2f6a3c7d44e9282d84c0998e93
 - swiftnav:
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
 - warehouse_ros:
