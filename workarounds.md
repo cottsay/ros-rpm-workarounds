@@ -39,6 +39,10 @@
   - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
 - split_sequence:
   - https://github.com/smd-ros-rpm-release/cram_3rdparty-release/commit/b8c24c5d540711a9b410c74124f935696024c976
+- shadow_robot:
+  - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/68b02e371b2296a6573ccded5401e7e830a5b2c0
+  - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/8df8313208d08098bca4f62f9108be15a926f53f
+  - https://github.com/smd-ros-rpm-release/sr-ros-interface-release/commit/512d56e1515d5f1069c642b514832802dd144e1a
 - swiftnav:
   - https://github.com/smd-ros-rpm-release/libswiftnav-release/commit/8be628c43737fc6438b179a203c2ee94b1381790
 - warehouse_ros:
