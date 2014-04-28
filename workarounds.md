@@ -21,6 +21,8 @@
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
 - map_store:
   - https://github.com/smd-ros-rpm-release/map_store-release/commit/5e8aaeda753e02b436f086d157777ed1228e06fd
+- openni_tracker:
+  - https://github.com/smd-ros-rpm-release/openni_tracker-release/commit/dfb2de593969a66bba2fb63e4e3b1faa7884d967
 - pcl_conversions:
   - https://github.com/smd-ros-rpm-release/pcl_conversions-release/commit/e312f52f8338a4c7450420a0e0e241cf340201db
 - razer_hydra:
