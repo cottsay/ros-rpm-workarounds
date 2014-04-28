@@ -42,6 +42,8 @@
   - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/1c17d7063ca6be62ca75d36f8420d83f3c8eb9f0
   - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/7d2b49942e1ecf0d8c6eeb93032b08a97d874655
   - https://github.com/smd-ros-rpm-release/moveit_setup_assistant-release/commit/3e2de1ca92ac976dc4c8762015585abfdbdeb98d
+- object_recognition_tabletop:
+  - https://github.com/smd-ros-rpm-release/object_recognition_tabletop-release/commit/7cfa546539e9a8c2b29482ad2678298958b1adcf
 - openni_tracker:
   - https://github.com/smd-ros-rpm-release/openni_tracker-release/commit/dfb2de593969a66bba2fb63e4e3b1faa7884d967
 - pointgrey_camera_driver:
