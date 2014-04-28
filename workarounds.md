@@ -19,6 +19,7 @@
   - https://github.com/smd-ros-rpm-release/image_pipeline-release/commit/83aef4d001b29ceacca95cda1309266d52737c64
 - joystick_drivers:
   - https://github.com/smd-ros-rpm-release/joystick_drivers-release/commit/eeac04a5b7752fdda59d18929684124aa42ed94f
+  - https://github.com/smd-ros-rpm-release/joystick_drivers-release/commit/58e84b5aed53c0983a742103bc63d3122cc1173e
 - jsk_common:
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/5348980fb311b3adec3412f93397e5b6559848c6
 - jsk_roseus:
