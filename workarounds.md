@@ -8,8 +8,6 @@
   - https://github.com/smd-ros-rpm-release/bwi_common-release/commit/e4700291699fdf13b4d643e5acb48b5f9a046367
 - bwi_planning:
   - https://github.com/smd-ros-rpm-release/bwi_planning-release/commit/50e103a6f80efff11803110464eeb026d6b347dc
-- catkin:
-  - https://github.com/smd-ros-rpm-release/catkin-release/commit/46a319fa6a2ade4e8f97613aa414aa5ab08b8a5b
 - cob_driver:
   - https://github.com/smd-ros-rpm-release/cob_driver-release/commit/5ac824d8585115ed2718ba63eec8d2981ae848af
 - cob_manipulation:
@@ -50,11 +48,9 @@
   - https://github.com/smd-ros-rpm-release/openni_tracker-release/commit/dfb2de593969a66bba2fb63e4e3b1faa7884d967
 - pointgrey_camera_driver:
   - https://github.com/smd-ros-rpm-release/pointgrey_camera_driver-release/commit/5e721fcdfcb1f449339249544e52f14d11ce5646
-- pcl_conversions:
-  - https://github.com/smd-ros-rpm-release/pcl_conversions-release/commit/e312f52f8338a4c7450420a0e0e241cf340201db
 - razer_hydra:
   - https://github.com/smd-ros-rpm-release/razer_hydra-release/commit/e91e228bd86a3d995e87c90c93312e28b490779f
-- robot_mode:
+- robot_model:
   - https://github.com/smd-ros-rpm-release/robot_model-release/commit/b1cdb820e306d49d46745efa588a2a7a6e3b1bb0
 - rosauth:
   - https://github.com/smd-ros-rpm-release/rosauth-release/commit/5ae7837a70ed031331b8da142ca52eaba77256d4
