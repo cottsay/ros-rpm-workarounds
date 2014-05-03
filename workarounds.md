@@ -34,6 +34,7 @@
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/0b25f4f99a56cfc5ffb13526c1de40aff55e9a87
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/304e38f9cc7ac4e0a5a05ac369cb9271105eeb32
   - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/0bf2d5556d5fea89df2097cd7fade841acbbd57c
+  - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/c5c54a1e957e08b331a9ee9949a7609be3c6e21f
 - jsk_roseus:
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/d9520a0dae2dfbc1b366befaf2572a560ae7b552
