@@ -30,7 +30,7 @@
   - https://github.com/smd-ros-rpm-release/joystick_drivers-release/commit/58e84b5aed53c0983a742103bc63d3122cc1173e
   - https://github.com/smd-ros-rpm-release/joystick_drivers-release/commit/00d290cb37e154f5135755cba9d0ef268334c99a
 - jsk_common:
-  - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/5348980fb311b3adec3412f93397e5b6559848c6
+  - https://github.com/smd-ros-rpm-release/jsk_common-release/commit/b00dc991b3c16b54f994a56e5afe33bd797328e5
 - jsk_roseus:
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/943a7a17a01a37149f4fc0154bd33ac12fe9aa4d
   - https://github.com/smd-ros-rpm-release/jsk_roseus-release/commit/d9520a0dae2dfbc1b366befaf2572a560ae7b552
